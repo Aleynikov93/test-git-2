@@ -1,0 +1,23 @@
+[33mcommit 8c26914084ee8f1f38c7b368786aab0654d69984[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Author: Aleynikov93 <aleynikovsergey1993@gmail.com>
+Date:   Fri Jan 13 11:39:51 2023 +0300
+
+    develop header
+
+[33mcommit 239d227d34a0d414f22dec918c8ac57c09a5126a[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Aleynikov93 <aleynikovsergey1993@gmail.com>
+Date:   Thu Jan 12 13:17:43 2023 +0300
+
+    add .gitignore
+
+[33mcommit 79b3e28587b455c31677c80f920aaf34a01714f3[m
+Author: Aleynikov93 <aleynikovsergey1993@gmail.com>
+Date:   Thu Jan 12 12:54:15 2023 +0300
+
+    add algoritm to push data on github
+
+[33mcommit 5ba3a225fef34e9883a7354d798bc2c3a53bca1c[m
+Author: Aleynikov93 <aleynikovsergey1993@gmail.com>
+Date:   Thu Jan 12 12:37:54 2023 +0300
+
+    init project
